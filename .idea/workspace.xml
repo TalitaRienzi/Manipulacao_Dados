@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8a6967b4-7de0-4d8e-9f5e-cf7f16cef3c8" name="Changes" comment="" />
+    <list default="true" id="8a6967b4-7de0-4d8e-9f5e-cf7f16cef3c8" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Funcoes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -56,9 +59,16 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.vetores">
+  <component name="RunManager" selected="Application.Funcoes">
     <configuration name="Data_e_hora" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Data_e_hora" />
+      <module name="Estudando Java - Com ADA cursos" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Funcoes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Funcoes" />
       <module name="Estudando Java - Com ADA cursos" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -80,6 +90,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Funcoes" />
         <item itemvalue="Application.vetores" />
         <item itemvalue="Application.Laco_numerico" />
         <item itemvalue="Application.Data_e_hora" />
@@ -94,7 +105,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1685572727801</updated>
-      <workItem from="1685572729151" duration="8150000" />
+      <workItem from="1685572729151" duration="9493000" />
     </task>
     <servers />
   </component>
